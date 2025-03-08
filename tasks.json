@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Master Semantic HTML",
+    "description": "Implement accessible HTML structure using semantic tags and ARIA roles",
+    "category": "Frontend",
+    "status": "completed",
+    "dueDate": "2025-03-01"
+  },
+  {
+    "title": "CSS Grid Layout Implementation",
+    "description": "Create complex responsive layouts using CSS Grid",
+    "category": "Frontend",
+    "status": "in-progress",
+    "dueDate": "2025-03-15"
+  },
+  {
+    "title": "React Hooks Deep Dive",
+    "description": "Implement useState, useEffect, and custom hooks in a project",
+    "category": "Frontend",
+    "status": "not-started",
+    "dueDate": "2025-04-01"
+  },
+  {
+    "title": "Node.js REST API Setup",
+    "description": "Create Express.js server with CRUD endpoints using MVC pattern",
+    "category": "Backend",
+    "status": "not-started",
+    "dueDate": "2025-04-15"
+  },
+  {
+    "title": "Mongoose Schema Design",
+    "description": "Implement relationships between User, Task, and Subscription models",
+    "category": "Database",
+    "status": "in-progress",
+    "dueDate": "2025-03-20"
+  },
+  {
+    "title": "JWT Authentication Flow",
+    "description": "Implement secure authentication with access/refresh tokens",
+    "category": "Security",
+    "status": "not-started",
+    "dueDate": "2025-04-10"
+  },
+  {
+    "title": "Dockerize Application",
+    "description": "Create Docker containers for Node.js and MongoDB services",
+    "category": "DevOps",
+    "status": "not-started",
+    "dueDate": "2025-05-01"
+  },
+  {
+    "title": "Testing Strategy Implementation",
+    "description": "Set up Jest and React Testing Library for component tests",
+    "category": "Testing",
+    "status": "not-started",
+    "dueDate": "2025-05-15"
+  },
+  {
+    "title": "Payment Gateway Integration",
+    "description": "Implement Stripe/Razorpay checkout in MERN stack",
+    "category": "Full Stack",
+    "status": "not-started",
+    "dueDate": "2025-06-01"
+  },
+  {
+    "title": "Real-time Features with Socket.io",
+    "description": "Implement chat functionality and live updates",
+    "category": "Full Stack",
+    "status": "not-started",
+    "dueDate": "2025-06-15"
+  }
+]
